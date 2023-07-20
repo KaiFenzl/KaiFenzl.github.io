@@ -14,6 +14,3 @@ My general research interest is centered around the development of high-throughp
 
 I want to continue my academic path and become an independent group leader, which would allow me to build my own friendly, productive and collaborative work environment. I am looking forward to these new challenges in the near future. 
 
-the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-
