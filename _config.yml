@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @KaiFenzl
+  username               : #@KaiFenzl
 facebook:
   username               :
   app_id                 :
@@ -85,10 +85,10 @@ author:
   bio              : "Molecular biologist, working on high-throughput DNA sequencing and phenotyping, to understand fundamental biological processes and to employ this knowledge to improve the pathophysiology of human diseases."
   location         : "Heidelberg"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=kai+fenzl"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=kszN9GcAAAAJ"
-  email            : "Kai.fenzl@embl.de"
-  researchgate     : "https://www.researchgate.net/profile/Kai-Fenzl-2"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=kai+fenzl"
+  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=kszN9GcAAAAJ"
+  email            : #"Kai.fenzl@embl.de"
+  researchgate     : #"https://www.researchgate.net/profile/Kai-Fenzl-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/KaiFenzl"
+  github           : #"https://github.com/KaiFenzl"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-8097-7740"
+  orcid            : #"https://orcid.org/0000-0001-8097-7740"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "@KaiFenzl"
+  twitter          : #"@KaiFenzl"
   vine             :
   weibo            :
   xing             :
