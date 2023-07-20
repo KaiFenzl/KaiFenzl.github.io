@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kai's Into Webpage"
+title                    : "Kai's Intro Webpage"
 title_separator          : "-"
 name                     : &name "Kai Fenzl"
 description              : &description "personal description"
