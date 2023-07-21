@@ -6,7 +6,6 @@ excerpt: 'Accurate assembly of newly synthesized proteins into functional oligom
 date: 01-01-2021
 venue: 'Science'
 paperurl: 'https://www.science.org/doi/10.1126/science.abc7151?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed'
-authors: 'M. Bertolini*, K. Fenzl*, I. Kats, F. Wruck, F. Tippmann, J. Schmitt, J. Auburger, S. Tans, B. Bukau, G. Kramer'
 citation: 'M. Bertolini et al. 2021'
 ---
 
