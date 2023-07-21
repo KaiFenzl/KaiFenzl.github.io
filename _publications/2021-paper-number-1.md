@@ -7,7 +7,7 @@ date: 01-01-2021
 venue: 'Science'
 paperurl: '[https://pubmed.ncbi.nlm.nih.gov/33384371/](https://www.science.org/doi/10.1126/science.abc7151?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)'
 Authors: 'M. Bertolini*, K. Fenzl*, I. Kats, F. Wruck, F. Tippmann, J. Schmitt, J. Auburger, S. Tans, B. Bukau, G. Kramer'
-Citation: 'M. Bertolini et al. 2021"
+Citation: 'M. Bertolini et al. 2021'
 ---
 
 [Download paper here](http://academicpages.github.io/files/2021-paper-number-1.pdf)
