@@ -10,5 +10,5 @@ authors: "TEST1, Test2, Test3"
 paperurl: 'https://www.nature.com/articles/s41467-023-39965-6'
 ---
 
-[Download paper here](http://KaiFenzl.github.io/files/2023-paper-1.pdf)
+[Download paper here](https://kaifenzl.github.io/files/2023-paper-1.pdf)
 
