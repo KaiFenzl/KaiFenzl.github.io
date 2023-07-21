@@ -1,5 +1,5 @@
 ---
-title: "[Mislocalization of pathogenic RBM20 variants in dilated cardiomyopathy is caused by loss-of-interaction with Transportin-3](https://www.nature.com/articles/s41467-023-39965-6)
+title: "[Mislocalization of pathogenic RBM20 variants in dilated cardiomyopathy is caused by loss-of-interaction with Transportin-3](https://www.nature.com/articles/s41467-023-39965-6)   <br>
 Test1, Test2, Test3 ..."
 collection: publications
 permalink: /publication/2023-paper-1
