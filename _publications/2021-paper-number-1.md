@@ -10,5 +10,5 @@ Authors: 'M. Bertolini*, K. Fenzl*, I. Kats, F. Wruck, F. Tippmann, J. Schmitt, 
 Citation: 'M. Bertolini et al. 2021'
 ---
 
-[Download paper here](http://KaiFenzl.github.io/files/2021-paper-number-1.pdf)
+[Download paper here](http://KaiFenzl.github.io/files/2021-paper-number-1.pdf/)
 
