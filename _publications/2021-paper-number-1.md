@@ -10,4 +10,3 @@ citation: 'M. Bertolini et al. 2021'
 ---
 
 [Download paper here](https:/kaifenzl.github.io/files/2021-paper-number-1.pdf)
-
