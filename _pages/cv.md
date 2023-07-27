@@ -73,10 +73,11 @@ Extracurricular activities
 
 Awards
 ======
-* Awarded for the HBIGS MSc/PhD Fellowship, 2016
-* HBIGS PhD conference travel grant, 2018
+* Life Science Alliance Exchange Grant, 2023 
+* Otto-Schmeil Price + Member of the Heidelberg Academy of Sciences and Humanities, 2022
 * Protein Folding on the Ribosome Conference travel grant, 2019
-* Otto-Schmeil Price, 2022
-* Life Science Alliance Exchange Grant, 2023
+* HBIGS PhD conference travel grant, 2018
+* Awarded for the HBIGS MSc/PhD Fellowship, 2016
+
 
 
