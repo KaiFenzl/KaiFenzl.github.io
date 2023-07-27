@@ -75,6 +75,7 @@ Awards
 ======
 * Life Science Alliance Exchange Grant, 2023 
 * Otto-Schmeil Price + Member of the Heidelberg Academy of Sciences and Humanities, 2022
+* Awarded for the EIPOD4 Fellowship programme, 2021
 * Protein Folding on the Ribosome Conference travel grant, 2019
 * HBIGS PhD conference travel grant, 2018
 * Awarded for the HBIGS MSc/PhD Fellowship, 2016
