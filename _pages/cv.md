@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout: 
 title: "CV"
-permalink: /cv/
+permalink: 
 author_profile: false
 
 ---
