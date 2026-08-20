@@ -15,4 +15,4 @@ My current research focuses on RBM20-associated dilated cardiomyopathy. By combi
 
 Across these projects, I am particularly interested in combining method development, large-scale experimentation and quantitative data analysis to answer biological questions that are difficult to address one variant or one protein at a time. 
 
-"Fig1.png"
+<img src="./images/Fig1.png"/>
